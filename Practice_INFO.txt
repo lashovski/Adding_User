@@ -1,0 +1,5 @@
+This is python script for creating a user and password for him then creating home directory and granting all privilages to it  
+
+To run the script type "python Practice.py -u (username) -p (password)"
+
+CHECK THE SCRIPT
